@@ -1,0 +1,109 @@
+h6{
+  color:white;
+  font-size:200%;
+  text-align: center;
+  text-decoration:underline;
+  background-color:black;
+  position:relative;
+  padding-top:-2%;
+}
+h5{
+  color:black;
+  font-style:bold;
+  text-align:left;
+  font-size:25px;
+}
+
+div#\33 {
+  width:47%;
+}
+div#gauche, div#droite {
+  width:46%;
+  float:left;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.texte{
+  text-align:justify;
+  text-indent:15px;
+}
+div.lienPhoto img{
+  width:30%;
+}
+div.lienPhoto{
+  text-align: center;
+}
+
+div div#invisible img#13{
+  width:25%;
+  text-align:center;
+}
+img.photoFleurs {
+  width:19.7%;
+  display: inline-block;
+}
+img#papillonFleur {
+  width:100%;
+}
+img.photoAnimaux {
+  width:24%;
+}
+img.photoAnimaux2{
+  width:33.1%;
+}
+img#bateau {
+  width:100%;
+}
+img#panorVoitures {
+  width:100%;
+}
+img#\31 3{
+  width:32%;
+}
+img#blanc2{
+  width:33.5%;
+}
+img#bateau{
+  width:100%;
+}
+button#voirphotos {
+  border-block-end-style: revert;
+  margin-left:45%;
+  width:10%;
+  border-radius:20px 20px 0px 0px;
+}
+img#michelange+p{
+  width:45%;
+}
+div.texte:nth-child(3) > h5:nth-child(1) {
+  margin-top: 126%;
+}
+div.texte:nth-child(4) > h5:nth-child(1) {
+  margin-top: 126%;
+}
+#video_background{
+  opacity:0.9;
+  width:100%;
+  position:absolute;
+  margin-top: -5%
+}
+#ligne1{
+  width:68%;
+}
+#ligne2{
+  width:72%;
+}
+#ligne3{
+  width:57%;
+}
+#ligne4{
+  width:47%;
+}
+.ligne5{
+  width:40%;
+}
+figcaption{
+  font-size:15px;
+  font-style:italic;
+}
